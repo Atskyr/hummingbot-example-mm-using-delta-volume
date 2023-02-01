@@ -1,0 +1,1 @@
+This code creates a new market making strategy that extends the MarketMakingMode class from Hummingbot, with a custom get_price method that returns a bid or ask price with the spread specified at initialization. The DeltaMarketMaker strategy can be run on a DeltaMarket instance.
